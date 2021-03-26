@@ -15,6 +15,5 @@ if (typeof window != undefined && window.Vue) {
 
 export default {
     install,
-    // 防止 eslint 报错，再导一次 
     jankosButton,
 }
